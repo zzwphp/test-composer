@@ -1,0 +1,14 @@
+{
+    "name": "ritin/taxi",
+    "description": "This is a  test.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zzw6105",
+            "email": "zzw6105@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
